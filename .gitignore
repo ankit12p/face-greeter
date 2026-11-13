@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+faces.db
+*.jpg
+*.jpeg
+*.png
+.DS_Store
+other1.py
